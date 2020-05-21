@@ -1,1 +1,2 @@
-second file
+second slide
+press left arrow key
